@@ -2,7 +2,7 @@
   "name": "tasks-proyect",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://sebastian8222.github.io/PostIt-React",
+  "homepage": "https://sebastian8222.github.io/TaskBoard-react",
   "type": "module",
   "scripts": {
     "dev": "vite",
